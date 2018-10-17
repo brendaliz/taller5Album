@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Album de Musica</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_add_favourite">Agregar a favoritos</string>
+    <string name="action_play_next">Siguiente canción</string>
+    <string name="backdrop_title">Música para el momento</string>
+    <string name="backdrop_subtitle">Los mejores 20</string>
+
+    <string name="album1">Bangerz</string>
+    <string name="album2">Para ti</string>
+    <string name="album3">De Lujo</string>
+    <string name="album4">X</string>
+    <string name="album5">Soltado</string>
+    <string name="album6">Temor</string>
+    <string name="album7">Mestizo</string>
+    <string name="album8">Vibras</string>
+    <string name="album9">Aura</string>
+    <string name="album10">Rey de Reyes</string>
+
+    <string name="desc1">Album lanzado oficialmente el 8 de octubre de 2013 de Miley Cirus, En el disco se mezclan los géneros dance pop y pop con country, hip-hop y dubstep.</string>
+    <string name="desc2">Es un álbum recopilatorio de la cantante y actriz estadounidense Selena Gomez. For You solo produjo un sencillo, «The Heart Wants What It Wants» que logró convertirse en el segundo top 10 de Gomez en la lista Billboard Hot 100 y tuvo una recepción comercial favorable.</string>
+    <string name="desc3">Es el cuarto álbum de estudio y primer álbum homónimo de la cantante y compositora estadounidense Demi Lovato.</string>
+    <string name="desc4">Es el segundo álbum de estudio del cantautor británico Ed Sheeran, lanzado mundialmente el 20 de junio de 2014 bajo los sellos discográficos Asylum y Atlantic Records.</string>
+    <string name="desc5">Es el noveno álbum de estudio de la banda de rock Skillet, el cual fue lanzado el 5 de agosto del 2016. La banda colaboró con Brian Howes, Kevin Churko, Neal Avron Seth Mosley y TobyMac en la producción de este disco.</string>
+    <string name="desc6">Afaz Natural lanza su cuarto trabajo discográfico el cual lleva por Nombre "Temor". El álbum fue grabado y producido de manera independiente bajo los sello discográfico Base Recordz y VIP Recordz.Este se consagra como el Álbum más exitoso hasta el momento.</string>
+    <string name="desc7">Tercer trabajo discográfico en su carrera artística, luego de “Rap Conciencia” y “Palabras del Alma”. ALI define este nuevo material como una mezcla de pensamientos, ideas, vivencias y ritmos musicales.</string>
+    <string name="desc8">Es el quinto album de estudio del cantante colombiano J Balvin, lanzado el 25 de mayo de 2018 por el sello Infinity Music y publicado por Universal Music.</string>
+    <string name="desc9">Es el segundo álbum del cantante y compositor puertorriqueño Ozuna, lanzado el 24 de agosto de 2018.</string>
+    <string name="desc10">Fue lanzado el 23 de mayo de 2006 al mercado por el sello discográfico V.I. Music, y distribuido por Machete Music y Universal Music Group.</string>
+
+    <string name="clicSeleccionado">Click Seleccionado: </string>
+    <string name="canciones">Canciones</string>
+    <string name="favoritos">Agregar a favoritos</string>
+    <string name="siguiente">Siguiente Cancion</string>
+    <string name="descripcion">Descripcion: </string>
+</resources>

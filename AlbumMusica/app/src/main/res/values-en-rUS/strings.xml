@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Music Album</string>
+    <string name="action_settings">Configuration</string>
+    <string name="action_add_favourite">Add to Favorites</string>
+    <string name="action_play_next">Next song</string>
+    <string name="backdrop_title">Music for the moment</string>
+    <string name="backdrop_subtitle">The best 20</string>
+
+    <string name="album1">Bangerz</string>
+    <string name="album2">For You</string>
+    <string name="album3">Deluxe</string>
+    <string name="album4">X</string>
+    <string name="album5">Unleashed</string>
+    <string name="album6">Fear</string>
+    <string name="album7">Half Blood</string>
+    <string name="album8">You vibrate</string>
+    <string name="album9">Aura</string>
+    <string name="album10">King of Kings</string>
+
+    <string name="albumCamila">Camila</string>
+    <string name="albumLorde">Pure Heroine</string>
+
+    <string name="desc1">Album officially released on October 8, 2013 by Miley Cirus. On the album mixed genres dance pop and pop with country, hip-hop and dubstep.</string>
+    <string name="desc2">It is a compilation album of the American singer and actress Selena Gomez. For You only produced a single, "The Heart Wants What It Wants" that managed to become the second top 10 of Gomez on the Billboard Hot 100 list and had a favorable commercial reception.</string>
+    <string name="desc3">It is the fourth album of study and first self-titled album of the American singer and composer Demi Lovato.</string>
+    <string name="desc4">It is the second album of study of the British singer-songwriter Ed Sheeran, sent worldwide on June 20, 2014 under the record labels Asylum and Atlantic Records.</string>
+    <string name="desc5">It is the ninth studio album by the rock band Skillet, which was released on August 5, 2016. The band collaborated with Brian Howes, Kevin Churko, Neal Avron Seth Mosley and TobyMac in the production of this album.</string>
+    <string name="desc6">Afaz Natural launches its fourth album, which is named "Fear". The album was recorded and produced independently under the record label Base Recordz and VIP Recordz. This is consecrated as the most successful album so far.</string>
+    <string name="desc7">Third album in his artistic career, after "Rap Consciousness" and "Words of the Soul". ALI defines this new material as a mixture of thoughts, ideas, experiences and musical rhythms.</string>
+    <string name="desc8">It is the fifth studio album of the Colombian singer J Balvin, released on May 25, 2018 by the Infinity Music label and published by Universal Music.</string>
+    <string name="desc9">It is the second album of the Puerto Rican singer and composer Ozuna, released on August 24, 2018.</string>
+    <string name="desc10">It was released on May 23, 2006 to the market by the record label V.I. Music, and distributed by Machete Music and Universal Music Group.</string>
+
+    <string name="clicSeleccionado">Click Selected: </string>
+    <string name="canciones">Songs</string>
+    <string name="favoritos">Add to Favorites</string>
+    <string name="siguiente">Next song</string>
+    <string name="descripcion">Description: </string>
+</resources>
